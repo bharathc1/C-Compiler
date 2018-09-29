@@ -1,0 +1,14 @@
+int a,c=10;
+int ba;
+int main(){
+    a=0;
+    ba=1;
+    c=10;
+    while(a<10){
+        ba+=1;
+        a+=1;
+
+        c+=2;
+    }
+
+}

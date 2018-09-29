@@ -1,0 +1,14 @@
+int a=10;
+int k;
+int c;
+int main(){
+    c=5;
+
+    if(10!=10){
+        k=100;
+    }
+    else{
+        k=32;
+    }
+
+}

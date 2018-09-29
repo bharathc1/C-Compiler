@@ -1,0 +1,47 @@
+int a,jk;
+int ba,aade;
+char d,f;
+int c;
+float adsfd;
+bool as;
+int afdsa[100];
+char ads[2000];
+int k;
+int i=k+3;
+
+int main(){
+    while(a==ba+c-d){
+        c=d;
+        d+=a*ba+f;
+        if(a==c){
+            a=d;
+            if(a==d){
+                k=10;
+            }
+            else{
+                k=k+1;
+            }
+        }
+        else{
+            a+=1;
+            d-=1;
+            a+=d+c;
+
+        }
+        }
+
+}
+
+int fun(int x, int y){
+    int x;
+    int y;
+    x=y;
+    return x;
+}
+
+void mem(int k){
+
+    while(k>=0){
+        k=k-1;
+    }
+}

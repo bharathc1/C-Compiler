@@ -1,0 +1,26 @@
+int bha,c;
+char ki;
+int main(){
+    bha=bha+c;
+    if(bha<c){
+        bha=5;
+        if(bha==c){
+            bha+=5;
+        }
+        else{
+
+            ki=1000;
+            if(ki==1000/10){
+                ki=100;
+                ki=21;
+            }
+            else{
+                bha=c+5;
+            }
+        }
+    }
+    else{
+        bha-=5;
+    }
+    c=bha+5;
+}
